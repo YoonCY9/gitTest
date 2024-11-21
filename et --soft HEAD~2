@@ -1,0 +1,29 @@
+[33mcommit 5aa39eff1e5a486df406ef11296972b0389c39ab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Yoon <a@a.a>
+Date:   Thu Nov 21 17:07:29 2024 +0900
+
+    Update README.md
+
+[33mcommit fbf3b198fa032d51dd32647e3ed5ff55d78f41d1[m
+Author: Yoon <a@a.a>
+Date:   Thu Nov 21 17:05:49 2024 +0900
+
+    Update README.md
+
+[33mcommit 186d48b4184bf4906fadb77d54c14bfb9d33b444[m
+Author: Yoon <a@a.a>
+Date:   Thu Nov 21 16:59:53 2024 +0900
+
+    update README.md
+
+[33mcommit ffa6203f613afdf26979a81d963907ae5ebf56db[m
+Author: Yoon <a@a.a>
+Date:   Thu Nov 21 16:57:25 2024 +0900
+
+    Initial commit
+
+[33mcommit 226622bd04f0e0f7a4d39c3a4c8de44f733b63a7[m
+Author: Yoon <a@a.a>
+Date:   Thu Nov 21 16:55:33 2024 +0900
+
+    Apply .gitignore settings
